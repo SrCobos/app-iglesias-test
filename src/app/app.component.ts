@@ -13,6 +13,8 @@ export class AppComponent {
       this.renderApp();
     }, 2000)
   }
+
+  // Prueba APP
   
   renderApp(){
     console.log("entrando a renderAPP")
