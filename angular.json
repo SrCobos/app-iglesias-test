@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "app-iglesias-test"
+    }
+  },
+  "defaultProject": "app-iglesias-test",
+  "cli": {
+    "analytics": false
+  }
 }
